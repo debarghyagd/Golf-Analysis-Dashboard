@@ -1,7 +1,7 @@
 # Golf Play Analytics Dashboard
 
 <video width="320" height="240" controls>
-  <source src="PASTE_RAW_VIDEO_URL_HERE" type="video/mp4">
+  <source src="https://github.com/debarghyagd/Golf-Analysis-Dashboard/blob/main/streamlit-driver-2023-09-07-18-09-53.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
