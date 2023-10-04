@@ -33,3 +33,7 @@ This feature allows you to:
 - TFLite Movenet Thunder
 - Matplotlib
 - NumPy
+
+## Run
+
+- streamlit run driver.py
