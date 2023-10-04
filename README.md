@@ -35,5 +35,7 @@ This feature allows you to:
 - NumPy
 
 ## Run
-
-- streamlit run driver.py
+```
+cd ./'Golf Dashboard'
+streamlit run driver.py
+```
