@@ -21,7 +21,7 @@ With this feature, you can:
 
 This feature allows you to:
 
-- **Upload Video Footage**: Simply upload, link, capture, or choose form the local dataase, a video of a golfer's swing.
+- **Upload Video Footage**: Simply upload, link, capture, or choose form the local database, a video of a golfer's swing.
 - **Golfer Posture Analysis**: Our integrated TFLite Movenet Thunder CV model will analyze the golfer's posture throughout the swing.
 - **Visual Feedback**: Receive visual feedback on key posture elements, such as body alignment, and posture angles.
 
